@@ -1,3 +1,16 @@
+
+'''
+
+APM:
+salam taske 1 bayad CLass Devcie real world ro bezarid va behesh yek devcie_tyep jadid ezafe konid
+
+Sensor-->tabeye turn_off va turn_on ndre fgth reread-data ro dare
+
+dota tabeye turn_on_all_devices( va turn_off_all_devices( ro check konid
+
+TASK3 ham doroste ahsant
+
+'''
 import random
 
 class Device:
